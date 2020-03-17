@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: Arial;
+}
+
+.bg-form {
+  width: 100%;
+  height: 1000px;
+  background-image: url(img/olen_art_vektor_134088_1920x1080.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.title {
+  color: black;
+  padding: 10px 20px;
+}
+.form-block {
+  margin: 0 auto;
+}
+
+.title-block {
+  background-color: white;
+  opacity: 50%;
+  width: 300px;
+  text-align: center;
+}
